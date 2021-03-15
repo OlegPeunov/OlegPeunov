@@ -10,4 +10,4 @@
 - :octocat: Писать красивый и читабельный код
 
 
-![github-1_icon-icons com_71186](https://user-images.githubusercontent.com/50010781/111130110-e391e280-8587-11eb-9440-1375bcb4c5f0.png)
+:bookmark: ## Мой стек
