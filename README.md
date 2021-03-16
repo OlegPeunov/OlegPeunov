@@ -9,5 +9,5 @@
 - ⚛️ Освоить фреймфорки
 - :octocat: Писать красивый и читабельный код
 
-:twisted_rightwards_arrows:#### Мой стек: 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/[ICON SLUG].svg" />
+#### :card_file_box: Мой стек: 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/Instagram.svg" />
