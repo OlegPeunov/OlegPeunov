@@ -1,3 +1,6 @@
+<img src="https://simpleicons.org/icons/visualstudiocode.svg" height="20" width="20">
+
+
 
 ### Всем привет, меня зовут Олег 👋
 
@@ -10,4 +13,4 @@
 - :octocat: Писать красивый и читабельный код
 
 #### :card_file_box: Мой стек: 
-<img src="https://simpleicons.org/icons/visualstudiocode.svg" height="20" width="20">
+
