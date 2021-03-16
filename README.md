@@ -13,4 +13,4 @@
 - :octocat: Писать красивый и читабельный код
 
 #### :card_file_box: Мой стек: 
-<img src="https://simpleicons.org/icons/visualstudiocode.svg" height="20" width="20"> <img src="https://simpleicons.org/icons/javascript.svg" height="20" width="20"> 
+<img src="https://simpleicons.org/icons/visualstudiocode.svg" height="20" width="20"> <img src="https://simpleicons.org/icons/javascript.svg" height="20" width="20"> <img src="https://simpleicons.org/icons/html5.svg" height="20" width="20"> <img src="https://simpleicons.org/icons/css3.svg" height="20" width="20">
