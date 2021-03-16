@@ -10,4 +10,4 @@
 - :octocat: Писать красивый и читабельный код
 
 #### :card_file_box: Мой стек: 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/abbrobotstudio.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/[abbrobotstudio].svg" />
