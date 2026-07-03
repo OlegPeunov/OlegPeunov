@@ -12,9 +12,9 @@ Frontend Engineer specializing in React.js, Next.js, TypeScript, and scalable we
 
 ## 👨‍💻 About Me
 
-Senior Frontend Engineer with experience in building scalable, high-performance web applications using React.js, Next.js, TypeScript, Redux Toolkit, and modern frontend architectures.
+Frontend engineer focused on building fast, maintainable, and scalable web applications with React.js, Next.js, and TypeScript.
 
-I enjoy solving complex UI challenges, optimizing application performance, designing reusable architectures, and creating developer-friendly experiences.
+I enjoy solving complex UI problems, improving performance, and creating clean, reusable solutions that make products easier to build and maintain.
 
 
 ## 📫 Contact Me
