@@ -48,7 +48,7 @@ Jest, React Testing Library, SonarQube, Snyk
 ## 🚀 Featured Projects
 
 ### [news-explorer](https://github.com/OlegPeunov/news-explorer-frontend-Peunov)
-A frontend application for searching and saving news articles.
+A frontend application for searching news via external API and saving favorite articles.
 
 ### [sea battle](https://github.com/rpserjo/praktikum-game)
 A browser-based game inspired by the classic Battleship game.
