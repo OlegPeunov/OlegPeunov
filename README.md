@@ -8,13 +8,13 @@ Senior Frontend Engineer specializing in React.js, Next.js, TypeScript, and scal
 ## ✨ What I'm Building
 
 - Building scalable enterprise-grade web applications using React.js, Next.js, TypeScript, and modern frontend architecture patterns.
-- Exploring AI-powered product experiences using LLM integrations and developer-focused tooling.
+- Exploring AI integrations and developer productivity tools using LLMs.
 
 ## 👨‍💻 About Me
 
-Senior Frontend Engineer with experiance of building scalable, high-performance web applications using React.js, Next.js, TypeScript, Redux Toolkit, and modern frontend architectures.
+Senior Frontend Engineer with experience in building scalable, high-performance web applications using React.js, Next.js, TypeScript, Redux Toolkit, and modern frontend architectures.
 
-I enjoy solving complex UI challenges, improving application performance, designing reusable architectures, and creating developer-friendly experiences.
+I enjoy solving complex UI challenges, optimizing application performance, designing reusable architectures, and creating developer-friendly experiences.
 
 
 ## 📫 Contact Me
@@ -60,9 +60,6 @@ A React project for uploading and managing images.
 A backend project for working with user data, authentication, and API requests.
 
 ---
-
-💡 I enjoy building products, solving frontend challenges and connecting with developers worldwide.
-
-🚀 Always interested in building impactful products and connecting with fellow developers.
+🚀 I am assionate about building great user experiences, solving frontend challenges, and collaborating with developers around the world.
 
 Let's build something meaningful together.
