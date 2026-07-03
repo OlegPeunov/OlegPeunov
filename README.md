@@ -61,17 +61,6 @@ A react project for uploading and managing images.
 ### [User Data Backend](https://github.com/OlegPeunov/OlegPeunovSprint-15.github.io)
 A backend project for working with user data, authentication, and API requests.
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OlegPeunov&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true" alt="Oleg Peunov's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlegPeunov&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
-
 ---
 
 💡 I enjoy building products, solving frontend challenges, contributing to open source, and connecting with developers worldwide.
