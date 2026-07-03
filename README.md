@@ -65,7 +65,7 @@ A backend project for working with user data, authentication, and API requests.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=chetannada&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=olegpeunov&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 ---
