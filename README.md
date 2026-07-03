@@ -2,7 +2,6 @@
   <h1>Hi there 👋, I'm Oleg Peunov</h1>
 <h3>
 Senior Frontend Engineer specializing in React.js, Next.js, TypeScript, and scalable web applications.
-Building enterprise products and AI-powered developer tools through content and mentorship.
 </h3>
 </div>
 
@@ -63,8 +62,8 @@ A backend project for working with user data, authentication, and API requests.
 
 ---
 
-💡 I enjoy building products, solving frontend challenges, contributing to open source, and connecting with developers worldwide.
+💡 I enjoy building products, solving frontend challenges and connecting with developers worldwide.
 
-🚀 Always interested in building impactful products, contributing to open source, and connecting with fellow developers.
+🚀 Always interested in building impactful products and connecting with fellow developers.
 
 Let's build something meaningful together.
