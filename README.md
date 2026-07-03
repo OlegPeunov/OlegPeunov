@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there 👋, I'm Oleg Peunov</h1>
 <h3>
-Senior Frontend Engineer specializing in React.js, Next.js, TypeScript, and scalable web applications.
+Frontend Engineer specializing in React.js, Next.js, TypeScript, and scalable web applications.
 </h3>
 </div>
 
@@ -62,4 +62,4 @@ A backend project for working with user data, authentication, and API requests.
 ---
 🚀 I am assionate about building great user experiences, solving frontend challenges, and collaborating with developers around the world.
 
-Let's build something meaningful together.
+Feel free to reach out if you'd like to discuss frontend engineering, React, or potential collaboration.
