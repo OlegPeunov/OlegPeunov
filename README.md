@@ -9,11 +9,10 @@ Senior Frontend Engineer specializing in React.js, Next.js, TypeScript, and scal
 
 - Building scalable enterprise-grade web applications using React.js, Next.js, TypeScript, and modern frontend architecture patterns.
 - Exploring AI-powered product experiences using LLM integrations and developer-focused tooling.
-- Maintaining and expanding open-source projects that help developers learn, build, and grow.
 
 ## 👨‍💻 About Me
 
-Senior Frontend Engineer with a proven track record of building scalable, high-performance web applications using React.js, Next.js, TypeScript, Redux Toolkit, and modern frontend architectures.
+Senior Frontend Engineer with experiance of building scalable, high-performance web applications using React.js, Next.js, TypeScript, Redux Toolkit, and modern frontend architectures.
 
 I enjoy solving complex UI challenges, improving application performance, designing reusable architectures, and creating developer-friendly experiences.
 
@@ -54,8 +53,8 @@ A frontend application for searching and saving news articles.
 ### [sea battle](https://github.com/rpserjo/praktikum-game)
 A browser-based game inspired by the classic Battleship game.
 
-### [Image Uploader](https://github.com/OlegPeunov/image-uploader)
-A react project for uploading and managing images.
+### [image uploader](https://github.com/OlegPeunov/image-uploader)
+A React project for uploading and managing images.
 
 ### [User Data Backend](https://github.com/OlegPeunov/OlegPeunovSprint-15.github.io)
 A backend project for working with user data, authentication, and API requests.
